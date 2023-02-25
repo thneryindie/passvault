@@ -1,0 +1,31 @@
+# Compiled object files
+*.o
+*.a
+*.exe
+
+# Compiled Go binaries
+/bin/
+/pkg/
+
+# Generated files
+*.pb.go
+*.pb.gw.go
+*.swagger.json
+*.pb.gw.go
+*.pb.gw.go
+*.pb.gw.cc
+
+# Dependency directories
+/vendor/
+/go.sum
+/Godeps/
+
+# Editor-specific files
+.idea/
+.vscode/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+.passwords*
